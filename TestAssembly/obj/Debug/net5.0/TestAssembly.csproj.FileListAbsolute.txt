@@ -1,0 +1,12 @@
+D:\smth\походу уник\spp\spp3\TestAssembly\bin\Debug\net5.0\TestAssembly.deps.json
+D:\smth\походу уник\spp\spp3\TestAssembly\bin\Debug\net5.0\TestAssembly.dll
+D:\smth\походу уник\spp\spp3\TestAssembly\bin\Debug\net5.0\ref\TestAssembly.dll
+D:\smth\походу уник\spp\spp3\TestAssembly\bin\Debug\net5.0\TestAssembly.pdb
+D:\smth\походу уник\spp\spp3\TestAssembly\obj\Debug\net5.0\TestAssembly.csprojAssemblyReference.cache
+D:\smth\походу уник\spp\spp3\TestAssembly\obj\Debug\net5.0\TestAssembly.GeneratedMSBuildEditorConfig.editorconfig
+D:\smth\походу уник\spp\spp3\TestAssembly\obj\Debug\net5.0\TestAssembly.AssemblyInfoInputs.cache
+D:\smth\походу уник\spp\spp3\TestAssembly\obj\Debug\net5.0\TestAssembly.AssemblyInfo.cs
+D:\smth\походу уник\spp\spp3\TestAssembly\obj\Debug\net5.0\TestAssembly.csproj.CoreCompileInputs.cache
+D:\smth\походу уник\spp\spp3\TestAssembly\obj\Debug\net5.0\TestAssembly.dll
+D:\smth\походу уник\spp\spp3\TestAssembly\obj\Debug\net5.0\ref\TestAssembly.dll
+D:\smth\походу уник\spp\spp3\TestAssembly\obj\Debug\net5.0\TestAssembly.pdb

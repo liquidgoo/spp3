@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AssemblyBrowserWPF/1.0.0": {
+        "dependencies": {
+          "AssemblyBrowserProject": "1.0.0"
+        },
+        "runtime": {
+          "AssemblyBrowserWPF.dll": {}
+        }
+      },
+      "AssemblyBrowserProject/1.0.0": {
+        "runtime": {
+          "AssemblyBrowserProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssemblyBrowserWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AssemblyBrowserProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
