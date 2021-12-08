@@ -1,0 +1,9 @@
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\bin\Debug\netcoreapp3.1\AssemblyBrowserProject.deps.json
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\bin\Debug\netcoreapp3.1\AssemblyBrowserProject.dll
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\bin\Debug\netcoreapp3.1\AssemblyBrowserProject.pdb
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\obj\Debug\netcoreapp3.1\AssemblyBrowserProject.csprojAssemblyReference.cache
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\obj\Debug\netcoreapp3.1\AssemblyBrowserProject.AssemblyInfoInputs.cache
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\obj\Debug\netcoreapp3.1\AssemblyBrowserProject.AssemblyInfo.cs
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\obj\Debug\netcoreapp3.1\AssemblyBrowserProject.csproj.CoreCompileInputs.cache
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\obj\Debug\netcoreapp3.1\AssemblyBrowserProject.dll
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\obj\Debug\netcoreapp3.1\AssemblyBrowserProject.pdb

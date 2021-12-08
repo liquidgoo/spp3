@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lnvZzVyu3Efo5t/plU27lQn7/l0isxdNm+fbP6lu2mzG6aLM5LugLl5VnkDSTDaGIzjflAHf/e4c8bK+qaXKEQ==",
+  "success": true,
+  "projectFilePath": "D:\\smth\\походу уник\\spp\\spp3\\AssemblyBrowserProject\\AssemblyBrowserProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nitor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nitor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

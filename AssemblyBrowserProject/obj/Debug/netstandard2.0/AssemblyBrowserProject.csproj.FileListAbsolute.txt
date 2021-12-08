@@ -1,0 +1,9 @@
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\bin\Debug\netstandard2.0\AssemblyBrowserProject.deps.json
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\bin\Debug\netstandard2.0\AssemblyBrowserProject.dll
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\bin\Debug\netstandard2.0\AssemblyBrowserProject.pdb
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\obj\Debug\netstandard2.0\AssemblyBrowserProject.csprojAssemblyReference.cache
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\obj\Debug\netstandard2.0\AssemblyBrowserProject.AssemblyInfoInputs.cache
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\obj\Debug\netstandard2.0\AssemblyBrowserProject.AssemblyInfo.cs
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\obj\Debug\netstandard2.0\AssemblyBrowserProject.csproj.CoreCompileInputs.cache
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\obj\Debug\netstandard2.0\AssemblyBrowserProject.dll
+D:\smth\походу уник\spp\spp3\AssemblyBrowserProject\obj\Debug\netstandard2.0\AssemblyBrowserProject.pdb
